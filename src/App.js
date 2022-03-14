@@ -6,7 +6,7 @@ function App() {
 
   // Spotify authentication data
   const CLIENT_ID = 'ba4b7392c0c044a88dcaca3bdaddd412'
-  const REDIRECT_URI = 'http://localhost:3000'
+  const REDIRECT_URI = 'https://lightweight-spotify-catalog.herokuapp.com/'
   const AUTH_ENDPOINT = 'https://accounts.spotify.com/authorize'
   const RESPONSE_TYPE = 'token'
 
